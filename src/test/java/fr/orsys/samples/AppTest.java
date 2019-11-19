@@ -41,6 +41,6 @@ public class AppTest
      */
     public void testAppNumeric()
     {
-        assertTrue( 1 == 2 );
+        assertEquals(1, 1);
     }
 }
