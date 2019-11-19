@@ -26,6 +26,12 @@
 	</repository>
   </distributionManagement>
   
+  <scm>
+  	<connection>scm:git:https://github.com/zkaneswar/jenkins-sample-1.git</connection>
+  	<url>https://github.com/zkaneswar/jenkins-sample-1</url>
+  	<developerConnection>scm:git:https://github.com/zkaneswar/jenkins-sample-1.git</developerConnection>
+  </scm>
+  
   <build>
   	<plugins>
   		<plugin>
