@@ -28,8 +28,8 @@
   
   <scm>
   	<connection>scm:git:https://github.com/zkaneswar/jenkins-sample-1.git</connection>
-  	<url>https://github.com/zkaneswar/jenkins-sample-1</url>
-  	<developerConnection>scm:git:https://github.com/zkaneswar/jenkins-sample-1.git</developerConnection>
+  	<url>https://github.com/leobr29/jenkins-sample-1</url>
+  	<developerConnection>scm:git:https://github.com/leobr29/jenkins-sample-1.git</developerConnection>
   </scm>
   
   <build>
